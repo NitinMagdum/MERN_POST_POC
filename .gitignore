@@ -7,6 +7,11 @@
 /client/node_modules
 /.pnp
 .pnp.js
+/server/package-lock.json
+/client/package-lock.json
+node_modules
+build
+
 
 # testing
 /coverage
